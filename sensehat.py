@@ -1,5 +1,6 @@
 from sense_hat import SenseHat
 
+sense = SenseHat()
 temperature = sense.temperature
 
 green = (0, 255, 0)
